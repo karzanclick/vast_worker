@@ -1,0 +1,6 @@
+vastai
+unsloth
+xformers
+pydantic
+aiohttp
+nltk
